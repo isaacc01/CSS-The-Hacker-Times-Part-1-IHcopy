@@ -1,7 +1,6 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
 
-h1{
+h1 {
     text-align: center;
 }
 
@@ -20,24 +19,26 @@ p{
     font-size: 26px;
 }
 
-.more-articles section img{
+
+.more-articles section img {
     width: 50%;
 }
 
 .more-articles section h4{
     font-size: 22px;
+    
 }
 
 nav{
     width: 100%;
-    border-top: ;
+    border-top: 1px solid #777;
     border-bottom: ;
     display: inline-block;
     text-align: center;
     margin: 10px;
 }
 
-li{
+li {
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 40px;
 }
